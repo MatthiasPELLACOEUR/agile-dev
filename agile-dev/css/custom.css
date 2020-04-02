@@ -13,12 +13,31 @@
 .section3{
    background-color: rgb(218, 218, 218);
    background-position: center;
-   align-items: center;
-   padding-top: 40px;
+   padding-top: 30px;
+   height: 500px;
 }
-.fb{
-   width: 30px;
 
+h4 {
+    margin: 0px;
+}
+
+.feature_right {
+    margin-top: 150px;
+    text-align: end;
+}
+
+.feature_phone {
+    margin-top: 20px;
+}
+
+img.tel {
+    width: 200px;
+}
+
+.feature_left {
+    text-align: start;
+    margin-top: 100px;
+}
 .win_phone {
     display: flex;
     flex-direction: column;

@@ -5,3 +5,17 @@
 .s6{
     text-align: center;
 }
+.section2{
+    display: flex;
+    padding-bottom: 50px;
+    padding-top: 50px;
+}
+.section3{
+   background-color: rgb(218, 218, 218);
+   background-position: center;
+   align-items: center;
+   padding-top: 40px;
+}
+.fb{
+   width: 30px;
+}

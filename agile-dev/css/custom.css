@@ -16,8 +16,7 @@
    align-items: center;
    padding-top: 40px;
 }
-.fb{
-   width: 30px;
+
 
 .win_phone {
     display: flex;
@@ -58,3 +57,21 @@ h3 {
     margin-top: 30px;
     margin-bottom: 5px;
 }
+
+.fb{
+    width: 30px;
+ }
+ .twitter{
+    width: 50px;
+ }
+ .insta{
+    width: 50px;
+ }
+ footer{
+     display: flex;
+     background-color: #181818;
+     color: white;
+ }
+ .resa{
+     text-align: end;
+ }
